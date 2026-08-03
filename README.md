@@ -5,7 +5,7 @@
 I build **accessible applications**, **social impact-driven software**, and **efficient systems**.  
 I'm deeply focused on **full-stack development, programming logic, and software architecture**, leveraging technology to solve real-world, everyday problems.
 
-Currently, I balance my academic studies in mathematics and computer science with the development of independent projects.
+Currently, I balance my academic studies in IA and computer science with the development of independent projects.
 
 ---
 
