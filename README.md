@@ -84,8 +84,8 @@ An offline-first mobile platform engineered to bridge the educational gap for st
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucasleticiosoaresalves-oss&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasleticiosoaresalves-oss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-eight.vercel.app/api?username=lucasleticiosoaresalves-oss&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=lucasleticiosoaresalves-oss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
