@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=root%40lucas%3A~%24+whoami;Lucas+%7C+Full-Stack+%26+Cybersecurity;root%40lucas%3A~%24+cat+skills.txt;Rust+%7C+Python+%7C+JavaScript+%7C+C%2B%2B" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=header" width="100%" alt="Header Wave" />
 </p>
 
 # Hi 👋, I'm Lucas
@@ -23,6 +21,9 @@ Currently balancing academic studies in Cybersecurity and Computer Science with 
   </a>
   <a href="https://linkedin.com/in/lucas-soares-54808a3b8">
     <img src="https://img.shields.io/badge/LinkedIn-lucas--soares-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:lucasleticiosoaresalves@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-lucasleticiosoaresalves%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -89,11 +90,9 @@ An offline-first mobile platform engineered to bridge the educational gap for st
 
 ---
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=800&color=00FF66&center=true&vCenter=true&width=500&height=35&lines=root%40lucas%3A~%24+echo+%22Ready+to+collaborate!%22;Ready+to+collaborate!" alt="Terminal Footer" />
-  </a>
-</p>
-
 ⭐ Feel free to explore my repositories!  
 🤝 Open to collaborative opportunities.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=100&section=footer" width="100%" alt="Footer Wave" />
+</p>
