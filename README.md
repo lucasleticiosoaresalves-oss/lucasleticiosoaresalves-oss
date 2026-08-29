@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=root%40lucas%3A~%24+whoami;Lucas+%7C+Full-Stack+%26+Cybersecurity;root%40lucas%3A~%24+cat+skills.txt;Rust+%7C+Python+%7C+JavaScript+%7C+C%2B%2B" alt="Typing SVG" />
+  </a>
+</p>
+
 # Hi 👋, I'm Lucas
 
 🚀 **Full-Stack Developer & Cybersecurity Student** 🇧🇷 Brazil
@@ -33,19 +39,21 @@ Currently balancing academic studies in Cybersecurity and Computer Science with 
 
 ## 🛠️ Tech Stack
 
-### Languages & Frontend
+### Languages & Frameworks
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 
 ### Tools & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -79,6 +87,13 @@ An offline-first mobile platform engineered to bridge the educational gap for st
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasleticiosoaresalves-oss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
+---
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=800&color=00FF66&center=true&vCenter=true&width=500&height=35&lines=root%40lucas%3A~%24+echo+%22Ready+to+collaborate!%22;Ready+to+collaborate!" alt="Terminal Footer" />
+  </a>
+</p>
 
 ⭐ Feel free to explore my repositories!  
-🤝 Open to collaborative opportunities in Full-Stack, Cybersecurity, Rust development, and Educational Technology.
+🤝 Open to collaborative opportunities.
